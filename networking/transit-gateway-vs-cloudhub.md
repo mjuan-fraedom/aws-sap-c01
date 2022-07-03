@@ -4,6 +4,7 @@
 * An actual AWS Service
 * Connects VPC and on-prem together
 * Used to allow transitive peering (a VPC limitation) between VPCs
+* You don't need to a VPC to create a Transit Gateway. VPCs attach to a Transit Gateway
 
 
 ### CloudHub
