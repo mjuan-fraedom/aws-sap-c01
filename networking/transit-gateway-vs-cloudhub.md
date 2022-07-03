@@ -6,7 +6,7 @@
 * Used to allow transitive peering (a VPC limitation) between VPCs
 * You don't need a VPC to create (and attach) a Transit Gateway. VPCs attach to the Transit Gateway
 
-
+#### See:
 [Create a Transit Gateway](https://www.youtube.com/watch?v=E5HpOVKNpug)
 
 
