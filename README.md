@@ -3,7 +3,7 @@
 Contains notes and resources I used to study for the AWS Certified Solutions Architect – Professional (SAP-C01) Exam.
 
 ## My Background
-I am 
+I am from the Azure side of the cloud. I have more than 5 years professional experience building cloud infrastructure for customers with various Expert-level Azure certifications under my belt.
 
 ## Links
 * [Exam overview](https://aws.amazon.com/certification/?nc2=sb_ce_co)
