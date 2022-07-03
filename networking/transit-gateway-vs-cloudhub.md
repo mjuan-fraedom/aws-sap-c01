@@ -3,6 +3,7 @@
 ### Transit Gateway
 * An actual AWS Service
 * Connects VPC and on-prem together
+* Used to allow transitive peering (a VPC limitation) between VPCs
 
 
 ### CloudHub
