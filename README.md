@@ -10,3 +10,4 @@ I am from the Azure side of the cloud with more than 10 years of professionl IT 
 * [Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-sa-pro/AWS-Certified-Solutions-Architect-Professional_Exam-Guide.pdf)
 * [Pluralsight SAP-C01 Learning Path](https://app.pluralsight.com/paths/certificate/aws-certified-solutions-architect-professional)
 * [Pluralsight SOA-C02 Learning Path](https://app.pluralsight.com/paths/certificate/aws-certified-sysops-administrator-associate-soa-c02)
+* [Pluralsight AWS Networking Deep Dive Course](https://app.pluralsight.com/library/courses/aws-networking-deep-dive-vpc/table-of-contents)
